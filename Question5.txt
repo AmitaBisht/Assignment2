@@ -1,0 +1,5 @@
+s="Acadview"
+course="Python"
+fees=5000
+print('s = {}\ncourse = {}\nfees = {}'.format(s,course,fees))
+
